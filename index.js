@@ -24,3 +24,9 @@ function appendDriver(name) {
   return driversNew
 }
 
+function appendDriver(name) {
+  const driversNew = drivers.slice();
+  driversNew.pop(name)
+  return driversNew
+}
+
