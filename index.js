@@ -1,2 +1,2 @@
-// Write your solution here!
-drivers = ["Milo", "Otis", "Garfield"]'
+// Write your solution here!\
+let drivers = ["Milo", "Otis", "Garfield"]
