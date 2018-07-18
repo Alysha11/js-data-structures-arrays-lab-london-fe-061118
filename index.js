@@ -6,6 +6,6 @@ const drivers = ["Milo", "Otis", "Garfield"]
 function destructivelyAppendDriver(name)
 {
   
-  let name = ralph
+  let name = Ralph
 drivers.push(name)
 }
